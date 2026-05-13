@@ -258,12 +258,12 @@ npm run dev
 ## Screenshots
  
 ### Extension Loaded in Chrome
-![ScreenShot](https://raw.githubusercontent.com/marinadimovska/image-fetch-extension/main/docs/Screenshot 2026-05-13 at 8.40.26.png)
+![ScreenShot](https://raw.githubusercontent.com/marinadimovska/image-fetch-extension/main/docs/Screenshot%202026-05-13%20at%208.40.26.png)
 
  
 ### Popup in Action
  
-![ScreenShot](https://raw.githubusercontent.com/marinadimovska/image-fetch-extension/main/docs/Screenshot 2026-05-13 at 8.43.26.png)
+![ScreenShot](https://raw.githubusercontent.com/marinadimovska/image-fetch-extension/main/docs/Screenshot%202026-05-13%20at%208.43.26.png)
  
 ## API
  
