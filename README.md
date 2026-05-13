@@ -7,7 +7,7 @@ A simple Chrome extension that fetches a random image from a public API at the c
 - Popup UI rendered with React
 - Fetches a random image from a public API on button click
 - Displays the timestamp of the last successful fetch
-- Built using Manifest V3
+
 ## Tech Stack
  
 - **React** — UI library
